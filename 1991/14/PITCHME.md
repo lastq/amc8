@@ -5,7 +5,7 @@
 - Must win at least one race. 5 Points. |
 - Oponent wins the other two races for 10 points. |
 - You must be second in the next two races to get 3 point each. Total: $5 + 3 + 6 = 11$. |
-- (C) is Answer |
+- (C) is the answer |
 
 Note:
 1. Mmust win at least one race: Otherwise he oponent could win all three then you have no chance.
