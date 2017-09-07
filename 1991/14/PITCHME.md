@@ -6,7 +6,7 @@ Several students are competing in a series of three races. A student earns $5$ p
 - Oponent wins the other two races then they have 10 points. |
 - You must win second in the next two races. |
 
-Notes:
+Note:
 1. Mmust win at least one race: Otherwise he oponent could win all three then you have no chance.
 2. Oponent wins the other two races then they have 10 points, what is the minimum number of points required to beat 10?
 3. Come 2nd in the next 2 races: The minimum number of extra points required to be greater than 10 as a whole is 6, as 5 + 6 = 11 as such you must win second in the next two races.
