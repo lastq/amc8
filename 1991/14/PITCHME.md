@@ -2,9 +2,9 @@
 
 Several students are competing in a series of three races. A student earns $5$ points for winning a race, $3$ points for finishing second and $1$ point for finishing third. There are no ties. What is the smallest number of points that a student must earn in the three races to be guaranteed of earning more points than any other student?
 
-- Must win at least one race. |
+- Must win at least one race. 5 Points. |
 - Oponent wins the other two races then they have 10 points. |
-- You must win second in the next two races. |
+- You must be second in the next two races to get 3 point each. Total: $5 + 3 + 6 = 11$ |
 
 Note:
 1. Mmust win at least one race: Otherwise he oponent could win all three then you have no chance.
