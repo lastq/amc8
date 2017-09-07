@@ -12,4 +12,5 @@ Note:
 2. Oponent wins the other two races then they have 10 points, what is the minimum number of points required to beat 10?
 3. Come 2nd in the next 2 races: The minimum number of extra points required to be greater than 10 as a whole is 6, as 5 + 6 = 11 as such you must win second in the next two races.
 Several students are competing in three races. A student earns $5$ points for winning a race, $3$ points for finishing 2nd and $1$ point for finishing 3rd. There are no ties. What is the smallest number of points that a student must earn in the three races to be guaranteed of earning more points than any other student?
+[link](https://artofproblemsolving.com/wiki/index.php?title=1991_AJHSME_Problems/Problem_14)
 
